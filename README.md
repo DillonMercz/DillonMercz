@@ -7,6 +7,7 @@
 6. Medical biotech: Laser Tissue Welding Using Artifical Intelligence, Potentially promising.
 7. Rocket prototypes: Fully 3D printed, all electric.
 8. THE BOAT! You'll want one one day, I promise!
+9. AI Web Dev tool: Draw shapes, export as a website!
 
  # I’m currently learning:
  1. Physics: Boil things down to their fundamental truths and build from there.
@@ -21,7 +22,7 @@
 # Ask me about:
 Anything, I love learning from other people, and I love questions which need answering.
 
-# Fun fact:
+# Fun Fact:
 Innovation Comes through the right thinking + lots of failure, but also,  the will to never give up.
 
 
