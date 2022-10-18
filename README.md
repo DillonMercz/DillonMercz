@@ -10,15 +10,6 @@
 9. AI Web Dev tool: Draw shapes, export as a website!
 
  # I’m currently learning:
- 1. Physics: Boil things down to their fundamental truths and build from there.
- 2. Database Structures, management, and systems.
- 3. All derivatives of the C language (C, C++, C#, .Net)
- 4. OOP languages
- 5. Swift
- 6. Vue
- 7. React/React Native
- 8. Electron
- 9. 
 # Ask me about:
 Anything, I love learning from other people, and I love questions which need answering.
 
