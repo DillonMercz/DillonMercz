@@ -1,15 +1,29 @@
-# I’m currently working on:
-1: Nestmate: A home services booking app to seamlessly connect service providers to communities.
-2. Peeko: AI Facial recognition doorlock. Easily access your home and allow others just by letting it "Peek" at you.
+# Hey There, I'm DillonMercz 👋
 
+🚀 Software Developer | 📱 Creator of Nestmate | 🌌 Science Enthusiast | 💡 Design Aficionado
 
+## About Me
 
- # I’m currently learning:
-# Ask me about:
-Anything, I love learning from other people, and I love questions which need answering.
+🏠 Proud Floridian based in Tampa, passionate about code, science, and the pursuit of innovation. My journey revolves around blending technology with everyday life to create impactful solutions.
 
-# Fun Fact:
-Innovation Comes through the right thinking + lots of failure, but also,  the will to never give up.
+## What I Do
 
+🌟 I develop groundbreaking software and own Nestmate, an innovative home services booking app.
 
-# Let's Get To Work And Change The World!
+🤓 Fascinated by the cosmos and the wonders of physics, I dive into scientific exploration to feed my curiosity.
+
+💻 Constantly exploring the realms of design and seeking the balance between aesthetics and functionality.
+
+💰 Hustling hard to make money, not just for the numbers but for the impact it enables.
+
+## Vision & Passion
+
+🌟 My goal? To become a self-made billionaire, inspiring future generations with hard work, innovation, and creative thinking.
+
+💡 Believe in the power of combining technology with the human touch to revolutionize industries.
+
+📚 Always learning, evolving, and excited to share insights on making money, philosophy, software development, and business.
+
+Let's connect and embark on this journey together! 🚀
+
+Email: Dylanclayton3@gmail.com
