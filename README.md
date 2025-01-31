@@ -1,6 +1,6 @@
 # Hey There, I'm DillonMercz 👋
 
-🚀 Software Developer | 📱 Creator of Nestmate | 🌌 Science Enthusiast | 💡 Design Aficionado
+🚀 Software Developer
 
 ## About Me
 
